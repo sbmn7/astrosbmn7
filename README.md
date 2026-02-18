@@ -1,10 +1,18 @@
+## Quick Start
+
+Test Astro Sbmn7 in just a few commands:
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/sbmn7/astrosbmn7.git
+cd astrosbmn7
+source venv/bin/activate
+pip install -r requirements.txt
+python astrosbmn7.py
 # Astro Sbmn7 – Python Vedic Astrology Software
 
 Astro Sbmn7 is a **Python-based Vedic astrology application** that calculates charts, Dashas, Panchang, and more.  
 It is designed for users who want to test and explore astrology using Python without compilation.
-
----
-
 ## Features
 
 - D1 to D150 divisional charts
